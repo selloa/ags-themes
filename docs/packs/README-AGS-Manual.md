@@ -13,7 +13,7 @@ The published manual site offers a dark/light toggle; these editor themes map th
 
 ## AGS Editor Help plugin
 
-These two themes were created in conjunction with the **AGS Editor Help plugin**. The colours match the plugin's manual viewer, so the help UI fits the rest of the editor instead of looking like a separate skin.
+These two themes were created in conjunction with the **AGS Editor Help plugin**. The colours match the plugin's manual viewer, so the help UI integrates seamlessly with the rest of the editor.
 
 Use **AGS Manual Dark** or **AGS Manual Light** with the Help plugin for the best result.
 
