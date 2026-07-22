@@ -1,6 +1,6 @@
 # Adventure Game Studio Themes
 
-Themes for [Adventure Game Studio](http://www.adventuregamestudio.co.uk/).
+selloa's themes for [Adventure Game Studio](http://www.adventuregamestudio.co.uk/).
 
 *Legend*
 - `[C]` Compatible themes, (3.4.2 and above)
