@@ -11,6 +11,12 @@ Unofficial community port of the **dark** and **light** colour schemes from the 
 
 The published manual site offers a dark/light toggle; these editor themes map those documentation palettes onto the AGS Editor UI and script editor. This is **not** an official Adventure Game Studio release.
 
+## AGS Editor Help plugin
+
+These two themes were created in conjunction with the **AGS Editor Help plugin**. The colours match the plugin's manual viewer, so the help UI fits the rest of the editor instead of looking like a separate skin.
+
+Use **AGS Manual Dark** or **AGS Manual Light** with the Help plugin for the best result.
+
 ## Files
 
 | File | Theme | Manual mode |
