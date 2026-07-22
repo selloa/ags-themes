@@ -2,7 +2,7 @@
 
 Modern full ports of the four classic `[C]` themes from the [official AGS themes repository](https://github.com/adventuregamestudio/ags-themes), expanded for AGS **3.6.0.36+** with log panel, modern caret/selection, brace matching, and other keys added in 3.6.1+.
 
-Addresses [adventuregamestudio/ags-themes#8](https://github.com/adventuregamestudio/ags-themes/issues/8) (convert classic themes to modern format).
+Community pack published on [selloa/ags-themes](https://github.com/selloa/ags-themes) (not submitted to the upstream repo). Same goal as the discussion in [adventuregamestudio/ags-themes#8](https://github.com/adventuregamestudio/ags-themes/issues/8): modern `[M]` themes that cover newer editor panes.
 
 | | |
 |---|---|
