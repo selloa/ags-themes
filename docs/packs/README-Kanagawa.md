@@ -6,7 +6,7 @@ Unofficial community port of [Kanagawa](https://github.com/rebelot/kanagawa.nvim
 |---|---|
 | **AGS port by** | [selloa](https://github.com/selloa) |
 | **Original theme by** | [Tommaso Laurenzi](https://github.com/rebelot) (rebelot) |
-| **Format** | Modern (`[M]`) — AGS **3.6.0.36+** |
+| **Format** | Modern (`[M]`) - AGS **3.6.0.36+** |
 
 This is **not** an official Kanagawa port. Colors follow the palette and semantic mappings from [kanagawa.nvim](https://github.com/rebelot/kanagawa.nvim).
 
@@ -21,14 +21,14 @@ This is **not** an official Kanagawa port. Colors follow the palette and semanti
 ## Install
 
 1. Place the JSON files in `%LocalAppData%\AGS\Themes`
-2. In AGS: **File → Preferences → Color Theme**
+2. In AGS: **File -> Preferences -> Color Theme**
 3. Choose a Kanagawa flavor
 4. Restart the editor
 
 ## Origins & licensing
 
-- **Original:** [kanagawa.nvim](https://github.com/rebelot/kanagawa.nvim) by Tommaso Laurenzi — [MIT License](https://github.com/rebelot/kanagawa.nvim/blob/master/LICENSE)  
-  Copyright (c) 2021 Tommaso Laurenzi
+- **Original:** [kanagawa.nvim](https://github.com/rebelot/kanagawa.nvim) by Tommaso Laurenzi - [MIT License](https://github.com/rebelot/kanagawa.nvim/blob/master/LICENSE) 
+ Copyright (c) 2021 Tommaso Laurenzi
 - **AGS theme JSON:** port by selloa (2026), based on Kanagawa palette colors and Wave / Dragon / Lotus theme mappings
 
 When redistributing, include the original MIT copyright notice for Kanagawa / Tommaso Laurenzi, and credit selloa for the AGS Editor mapping.
