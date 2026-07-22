@@ -7,8 +7,10 @@ Community pack published on [selloa/ags-themes](https://github.com/selloa/ags-th
 | | |
 |---|---|
 | **Modern ports by** | [selloa](https://github.com/selloa) |
+| **Original `[C]` Visual Studio Dark by** | [persn](https://github.com/persn) (2018) |
+| **Original `[C]` Gray Tones by** | [imagazzell](https://github.com/imagazzell) |
 | **Original `[C]` Dracula by** | [vga256](https://www.adventuregamestudio.co.uk/forums/modules-plugins-tools/editor-theme-dracula-dark/) (2021) |
-| **Original `[C]` VS Dark / Gray Tones by** | [AlanDrake](https://github.com/AlanDrake) (2022) |
+| **Official collection / updates** | [AlanDrake](https://github.com/AlanDrake) ([ags-themes](https://github.com/adventuregamestudio/ags-themes)) |
 | **Format** | Modern (`[M]`) - AGS **3.6.0.36+** |
 
 `[C] Template Compat.json` is a reference skeleton only and is not part of this pack.
@@ -41,28 +43,31 @@ Only the JSON files are loaded by AGS. `README.md` and screenshots are reference
 
 ## Origins and licensing
 
+### Visual Studio Dark
+
+- Inspired by Microsoft Visual Studio Dark workbench colors (not a Microsoft product)
+- **Original AGS theme JSON:** by [persn](https://github.com/persn) (Per Olav Flaten), introduced with the editor color-theme system ([adventuregamestudio/ags#427](https://github.com/adventuregamestudio/ags/pull/427), 2018). File title: "Visual Studio Dark Theme Replica"
+- Later collected into the official [ags-themes](https://github.com/adventuregamestudio/ags-themes) repo
+- This pack: full modern `[M]` expansion of that `[C]` file
+
+### Gray Tones
+
+- **Original AGS themes:** by [imagazzell](https://github.com/imagazzell) - [Gray Color Theme](https://www.adventuregamestudio.co.uk/forums/modules-plugins-tools/gray-color-theme/) forum post and [AGS-Color-Themes](https://github.com/imagazzell/AGS-Color-Themes)
+- Classic gray editor chrome with dark or light script pane (not a third-party VS Code port)
+- Later included in the official [ags-themes](https://github.com/adventuregamestudio/ags-themes) repo
+
 ### Dracula
 
 - **Palette:** [Dracula Theme](https://draculatheme.com/) - [MIT License](https://github.com/dracula/dracula-theme/blob/main/LICENSE)
 - **Original AGS `[C]` theme:** by [vga256](https://www.adventuregamestudio.co.uk/forums/modules-plugins-tools/editor-theme-dracula-dark/) (forum post, 2021); later included in the official [ags-themes](https://github.com/adventuregamestudio/ags-themes) repo
 - Unofficial community expansion to modern `[M]` format
 
-### Visual Studio Dark
-
-- Inspired by Microsoft Visual Studio Dark workbench colors (not a Microsoft product)
-- Full modern expansion of AlanDrake's `[C] VisualStudioDark.json`
-
-### Gray Tones
-
-- Original AGS gray-chrome designs by AlanDrake (not a third-party VS Code port)
-- Dark and light script variants preserved from the official `[C]` pair
-
 ### All themes
 
-- **Original `[C]` JSON:** [ags-themes](https://github.com/adventuregamestudio/ags-themes) (Dracula by vga256; Visual Studio Dark and Gray Tones by AlanDrake)
+- **Collected / maintained in:** [ags-themes](https://github.com/adventuregamestudio/ags-themes) by [AlanDrake](https://github.com/AlanDrake) (compatibility updates, modern format docs; not the original author of these four `[C]` themes)
 - **Modern `[M]` JSON:** port by selloa (2026), generated from the official `[C]` files via `tools/legacy_c_to_modern.py`
 
-When redistributing Dracula, include the Dracula MIT notice. Credit vga256 for the original AGS Dracula mapping, AlanDrake for Visual Studio Dark / Gray Tones, and selloa for the modern expansion.
+When redistributing Dracula, include the Dracula MIT notice. Credit persn (VS Dark), imagazzell (Gray Tones), vga256 (Dracula), and selloa for the modern expansion.
 
 ## Notes
 
