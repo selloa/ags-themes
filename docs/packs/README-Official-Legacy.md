@@ -7,7 +7,8 @@ Community pack published on [selloa/ags-themes](https://github.com/selloa/ags-th
 | | |
 |---|---|
 | **Modern ports by** | [selloa](https://github.com/selloa) |
-| **Original AGS `[C]` themes by** | [AlanDrake](https://github.com/AlanDrake) (2022) |
+| **Original `[C]` Dracula by** | [vga256](https://www.adventuregamestudio.co.uk/forums/modules-plugins-tools/editor-theme-dracula-dark/) (2021) |
+| **Original `[C]` VS Dark / Gray Tones by** | [AlanDrake](https://github.com/AlanDrake) (2022) |
 | **Format** | Modern (`[M]`) - AGS **3.6.0.36+** |
 
 `[C] Template Compat.json` is a reference skeleton only and is not part of this pack.
@@ -43,7 +44,8 @@ Only the JSON files are loaded by AGS. `README.md` and screenshots are reference
 ### Dracula
 
 - **Palette:** [Dracula Theme](https://draculatheme.com/) - [MIT License](https://github.com/dracula/dracula-theme/blob/main/LICENSE)
-- Unofficial community expansion of AlanDrake's AGS Dracula `[C]` theme
+- **Original AGS `[C]` theme:** by [vga256](https://www.adventuregamestudio.co.uk/forums/modules-plugins-tools/editor-theme-dracula-dark/) (forum post, 2021); later included in the official [ags-themes](https://github.com/adventuregamestudio/ags-themes) repo
+- Unofficial community expansion to modern `[M]` format
 
 ### Visual Studio Dark
 
@@ -57,10 +59,10 @@ Only the JSON files are loaded by AGS. `README.md` and screenshots are reference
 
 ### All themes
 
-- **Original `[C]` JSON:** [ags-themes](https://github.com/adventuregamestudio/ags-themes) by AlanDrake
+- **Original `[C]` JSON:** [ags-themes](https://github.com/adventuregamestudio/ags-themes) (Dracula by vga256; Visual Studio Dark and Gray Tones by AlanDrake)
 - **Modern `[M]` JSON:** port by selloa (2026), generated from the official `[C]` files via `tools/legacy_c_to_modern.py`
 
-When redistributing Dracula, include the Dracula MIT notice. Credit AlanDrake for the original AGS themes and selloa for the modern expansion.
+When redistributing Dracula, include the Dracula MIT notice. Credit vga256 for the original AGS Dracula mapping, AlanDrake for Visual Studio Dark / Gray Tones, and selloa for the modern expansion.
 
 ## Notes
 
