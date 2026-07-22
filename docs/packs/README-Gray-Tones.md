@@ -1,14 +1,14 @@
 # Gray Tones for Adventure Game Studio Editor
 
-Modern full ports of the official AGS Gray Tones pair for the [Adventure Game Studio](https://www.adventuregamestudio.co.uk/) Editor.
+Modern full ports of the classic AGS Gray Tones pair for the [Adventure Game Studio](https://www.adventuregamestudio.co.uk/) Editor.
 
 | | |
 |---|---|
 | **Modern port by** | [selloa](https://github.com/selloa) |
-| **Original AGS `[C]` themes by** | [AlanDrake](https://github.com/AlanDrake) |
+| **Original AGS `[C]` themes by** | [imagazzell](https://github.com/imagazzell) |
 | **Format** | Modern (`[M]`) - AGS **3.6.0.36+** |
 
-Original AGS designs: classic **gray editor chrome** with either a **dark** or **light** script pane. Not a port of a third-party VS Code theme.
+Original designs: classic **gray editor chrome** with either a **dark** or **light** script pane. Not a port of a third-party VS Code theme.
 
 ## Files
 
@@ -26,7 +26,8 @@ Original AGS designs: classic **gray editor chrome** with either a **dark** or *
 
 ## Origins and licensing
 
-- **Original AGS `[C]` themes:** `[C] GrayTones(DarkScript).json` and `[C] GrayTones(LightScript).json` from [ags-themes](https://github.com/adventuregamestudio/ags-themes) by AlanDrake (2022)
+- **Original AGS themes:** by [imagazzell](https://github.com/imagazzell) - [Gray Color Theme](https://www.adventuregamestudio.co.uk/forums/modules-plugins-tools/gray-color-theme/) forum post and [AGS-Color-Themes](https://github.com/imagazzell/AGS-Color-Themes)
+- Later included in the official [ags-themes](https://github.com/adventuregamestudio/ags-themes) repo as `[C] GrayTones(DarkScript).json` and `[C] GrayTones(LightScript).json`
 - **Modern `[M]` JSON:** port by selloa (2026), generated from the official `[C]` files with palettes preserved
 
 ## Notes
