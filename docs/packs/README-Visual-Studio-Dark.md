@@ -1,11 +1,11 @@
 # Visual Studio Dark for Adventure Game Studio Editor
 
-Full modern port of the official AGS Visual Studio Dark theme for the [Adventure Game Studio](https://www.adventuregamestudio.co.uk/) Editor.
+Full modern port of the classic AGS Visual Studio Dark theme for the [Adventure Game Studio](https://www.adventuregamestudio.co.uk/) Editor.
 
 | | |
 |---|---|
 | **Modern port by** | [selloa](https://github.com/selloa) |
-| **Original AGS `[C]` theme by** | [AlanDrake](https://github.com/AlanDrake) |
+| **Original AGS `[C]` theme by** | [persn](https://github.com/persn) (Per Olav Flaten, 2018) |
 | **Inspired by** | Visual Studio Dark (2012-2019) |
 | **Format** | Modern (`[M]`) - AGS **3.6.0.36+** |
 
@@ -32,11 +32,12 @@ Full modern port of the official AGS Visual Studio Dark theme for the [Adventure
 
 ## Origins and licensing
 
-- **Inspired by:** Microsoft Visual Studio Dark workbench colors
-- **Original AGS `[C]` theme:** [ags-themes](https://github.com/adventuregamestudio/ags-themes) by AlanDrake (2022)
+- **Inspired by:** Microsoft Visual Studio Dark workbench colors (not a Microsoft product)
+- **Original AGS theme JSON:** by [persn](https://github.com/persn), introduced with the editor color-theme system ([adventuregamestudio/ags#427](https://github.com/adventuregamestudio/ags/pull/427), 2018). File title: "Visual Studio Dark Theme Replica"
+- Later collected into [ags-themes](https://github.com/adventuregamestudio/ags-themes)
 - **Modern `[M]` JSON:** port by selloa (2026), generated from `[C] VisualStudioDark.json`
 
 ## Notes
 
-- This is a community expansion of the official AlanDrake theme, not a Microsoft product.
+- Legacy users on older AGS can keep using `[C] VisualStudioDark.json` from the official themes repo.
 - AGS theme JSON only stores display `name` / `version` for humans; the editor ignores them as metadata.
