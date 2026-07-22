@@ -1,11 +1,11 @@
 # Dracula for Adventure Game Studio Editor
 
-Modern full port of the official AGS Dracula theme for the [Adventure Game Studio](https://www.adventuregamestudio.co.uk/) Editor.
+Modern full port of the classic AGS Dracula theme for the [Adventure Game Studio](https://www.adventuregamestudio.co.uk/) Editor.
 
 | | |
 |---|---|
 | **Modern port by** | [selloa](https://github.com/selloa) |
-| **Original AGS `[C]` theme by** | [AlanDrake](https://github.com/AlanDrake) |
+| **Original AGS `[C]` theme by** | [vga256](https://www.adventuregamestudio.co.uk/forums/modules-plugins-tools/editor-theme-dracula-dark/) (2021) |
 | **Palette** | [Dracula](https://draculatheme.com/) |
 | **Format** | Modern (`[M]`) - AGS **3.6.0.36+** |
 | **Accent** | Pink `#ff79c6` (syntax keywords); cyan line numbers |
@@ -28,10 +28,10 @@ This expands the legacy `[C] AGS-Dracula-0.2.json` with modern `caret`/`selected
 ## Origins and licensing
 
 - **Palette:** [Dracula Theme](https://github.com/dracula/dracula-theme) - [MIT License](https://github.com/dracula/dracula-theme/blob/main/LICENSE)
-- **Original AGS `[C]` theme:** [ags-themes](https://github.com/adventuregamestudio/ags-themes) by AlanDrake (2022)
+- **Original AGS `[C]` theme:** by [vga256](https://www.adventuregamestudio.co.uk/forums/modules-plugins-tools/editor-theme-dracula-dark/) (forum post, 2021); later included in the official [ags-themes](https://github.com/adventuregamestudio/ags-themes) repo
 - **Modern `[M]` JSON:** port by selloa (2026), generated from the official `[C]` file with palette preserved
 
-When redistributing, include the Dracula MIT notice and credit AlanDrake for the original AGS mapping and selloa for the modern expansion.
+When redistributing, include the Dracula MIT notice and credit vga256 for the original AGS mapping and selloa for the modern expansion.
 
 ## Notes
 
